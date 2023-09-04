@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Module_26_9\Sum_Elem_with_threads\x64\Debug\Sum_Elem_with_threads.exe
+C:\Users\Admin\Desktop\Module_26_9\x64\Debug\Sum_Elem_with_threads.exe

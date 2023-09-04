@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Module_26_9\main.cpp(17,20): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Admin\Desktop\Module_26_9\main.cpp(23,93): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  sum_elems.cpp
+C:\Users\Admin\Desktop\Module_26_9\sum_elems.cpp(11,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\Module_26_9\sum_elems.cpp(62,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Sum_Elem_with_threads.vcxproj -> C:\Users\Admin\Desktop\Module_26_9\x64\Debug\Sum_Elem_with_threads.exe
